@@ -1,5 +1,9 @@
-### Hi there 👋
+![Hello World]()
+### Hi there I´m Nani 👋
+---
 
+Welcome to my profile! I am a full stack web developer and biomedical engineering student. I aspire to become a great programmer and be able to create interesting and useful applications that help improve the health of all species.
+---
 <!--
 **NaniBM/NaniBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
