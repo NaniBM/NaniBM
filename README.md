@@ -11,7 +11,7 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 
 
 - 🔭 I’m currently working on  **A platform to organize and find events.**
-- 🌱 I’m currently learning **TypeScript and React Native.**
+- 🌱 I’m currently learning **MongoDB, TypeScript and React Native.**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yaninabazanmurua/" target="_blank">Yanina Janet Bazan Murua</a> on Linkedin
 
 <hr />
