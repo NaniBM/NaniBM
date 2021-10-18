@@ -20,14 +20,15 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 
 ### Recent Works
 
-<h4 style="color: blue">*Clan Fest App* - Academic project for Henry</h4>
+<h4><a href="#" target="_blank">ClanFest App</a> - Academic project for Henry´s Bootcamp</h4>
 This project, currently under development, will allow users to find, create and organize events. It will have a desktop version and a mobile version.
+
 <h6>Backend:</h6>
   - <a href="https://github.com/NaniBM/ClanFest-API" target="_blank">GitHub Repo</a>
   - <a href="https://api-fest.herokuapp.com" target="_blank">Deployed API</a>
   - Created using: JavaScripte | NodeJS | Express | MongoDB | Mongoose
-  - Deployed with: Mongo Atlas + Heroku 
- 
+  - Deployed with: Mongo Atlas + Heroku  
+
 <h6>FrontEnd</h6>
   - <a href="https://github.com/christopherBryan1996/PF" target="_blank">GitHub Repo</a>
   - Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS | Bootstrap 
