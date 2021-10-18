@@ -25,14 +25,14 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 This project, currently under development, will allow users to find, create and organize events. It will have a desktop version and a mobile version.
 </p>
 <h4>Backend:</h4>
-- <a href="https://github.com/NaniBM/ClanFest-API" target="_blank">GitHub Repo</a>
-- <a href="https://api-fest.herokuapp.com" target="_blank">Deployed API</a>
-- Created using: JavaScripte | NodeJS | Express | MongoDB | Mongoose 
-- Deployed with: Mongo Atlas + Heroku  
+- <a href="https://github.com/NaniBM/ClanFest-API" target="_blank">GitHub Repo</a><br />
+- <a href="https://api-fest.herokuapp.com" target="_blank">Deployed API</a><br />
+- Created using: JavaScripte | NodeJS | Express | MongoDB | Mongoose <br />
+- Deployed with: Mongo Atlas + Heroku  <br />
 
 <h4>FrontEnd</h4>
-- <a href="https://github.com/christopherBryan1996/PF" target="_blank">GitHub Repo</a>
-- Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS | Bootstrap 
+- <a href="https://github.com/christopherBryan1996/PF" target="_blank">GitHub Repo</a><br />
+- Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS | Bootstrap <br />
 
 
 <h3> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Dogs App</a> - Academic project for Henry</h3>
