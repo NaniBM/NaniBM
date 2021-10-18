@@ -20,7 +20,7 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 
 ### Recent Works
 
-<h4><a href="#" target="_blank">ClanFest App</a> - Academic project for Henry´s Bootcamp</h4>
+<h3><a href="#" target="_blank">ClanFest App</a> - Academic project for Henry´s Bootcamp</h3>
 This project, currently under development, will allow users to find, create and organize events. It will have a desktop version and a mobile version.
 
 <h6>Backend:</h6>
@@ -34,7 +34,7 @@ This project, currently under development, will allow users to find, create and 
   - Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS | Bootstrap 
 
 
-<h4> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Dogs App</a> - Academic project for Henry</h4>
+<h3> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Dogs App</a> - Academic project for Henry</h3>
 An app built for Henry's bootcamp, which consisted of the development of a single page application that allows users to learn or obtain information about dog breeds.
 <div align="center"><br /><img src="./images/Projects/DogsApp/01.jpg" width="400px"/> 
   <img  src="./images/Projects/DogsApp/02.jpg" width="400"/>
