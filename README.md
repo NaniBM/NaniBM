@@ -19,6 +19,20 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 <hr />
 
 ### Recent Works
+
+<h4 style="color: blue">*Clan Fest App* - Academic project for Henry</h4>
+This project, currently under development, will allow users to find, create and organize events. It will have a desktop version and a mobile version.
+<h6>Backend:</h6>
+  - <a href="https://github.com/NaniBM/ClanFest-API" target="_blank">GitHub Repo</a>
+  - <a href="https://api-fest.herokuapp.com" target="_blank">Deployed API</a>
+  - Created using: JavaScripte | NodeJS | Express | MongoDB | Mongoose
+  - Deployed with: Mongo Atlas + Heroku 
+ 
+<h6>FrontEnd</h6>
+  - <a href="https://github.com/christopherBryan1996/PF" target="_blank">GitHub Repo</a>
+  - Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS | Bootstrap 
+
+
 <h4> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Dogs App</a> - Academic project for Henry</h4>
 An app built for Henry's bootcamp, which consisted of the development of a single page application that allows users to learn or obtain information about dog breeds.
 <div align="center"><br /><img src="./images/Projects/DogsApp/01.jpg" width="400px"/> 
@@ -26,7 +40,7 @@ An app built for Henry's bootcamp, which consisted of the development of a singl
   <img src="./images/Projects/DogsApp/05.jpg" width="800"/>
   <br /></div>
 <br />
-Created with: JavaScript | React | Redux | CSS | PostgreSQL | Sequelize | NodeJS | Express
+Created using: JavaScript | React | Redux | CSS | PostgreSQL | Sequelize | NodeJS | Express
 
 
 <hr />
