@@ -40,7 +40,7 @@ created events or events to attend, also users will receive emails to inform the
 <h4>FrontEnd</h4>
 - <a href="https://github.com/christopherBryan1996/PF" target="_blank">GitHub Repo</a> <br />
 - <a href="https://flamboyant-golick-d7cb40.netlify.app/" target="_blank">Deployed Project</a><br />
-- Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS3 | Bootstrap | Socket.io <br />
+- Created using: TypeScript | React | Redux | CSS3 | Bootstrap | Socket.io <br />
 - Deployed with: Netlify  <br />
 <br />
 
