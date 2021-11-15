@@ -52,7 +52,7 @@ created events or events to attend, also users will receive emails to inform the
   <br />
 </div>
 
-<h3> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Dogs App</a> - Academic project for Henry</h3>
+<h3> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Dogs App</a></h3>
 An app built for Henry's bootcamp, which consisted of the development of a single page application that allows users to learn or obtain information about dog breeds.
 
 - <a href="https://github.com/NaniBM/DogAppPI" target="_blank">GitHub Repo</a> <br />
