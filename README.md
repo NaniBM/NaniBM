@@ -10,8 +10,8 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 
 
 
-- 🔭 I’m currently working on  **A platform to organize and find events.**
-- 🌱 I’m currently learning **MongoDB, TypeScript and React Native.**
+- 🔭 I’m currently working on **a app to facilitate the exchange of books.**
+- 🌱 I’m currently learning **React Native.**
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/yaninabazanmurua/" target="_blank">Yanina Janet Bazan Murua</a> on Linkedin
   - <a href="mailto:bazanmurua@gmail.com">bazanmurua@gmail.com</a>
@@ -20,19 +20,27 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 
 ### Recent Works
 
-<h3><a href="#" target="_blank">ClanFest App</a> - Academic project for Henry´s Bootcamp</h3>
+<h3><a href="#" target="_blank">ClanFest App</a></h3>
 <p>
-This project, currently under development, will allow users to find, create and organize events. It will have a desktop version and a mobile version.
+ClanFest is a web application that allows users to find, create and organize all kinds of events. 
+Among the functionalities developed, users will be able to create events, edit created events, 
+invite friends and manage event attendees, assigning them tasks or deleting them.  
+Users will be able to find events near their location, confirm attendance or purchase tickets 
+for the event through the integrated payment platform, Mercado Pago. 
+ClanFest includes a notification system, part of it, integrated in the app, built with Socket.io, 
+that will send online and offline alerts to users every time another user has interacted with their 
+created events or events to attend, also users will receive emails to inform them of these interactions. 
 </p>
 <h4>Backend:</h4>
 - <a href="https://github.com/NaniBM/ClanFest-API" target="_blank">GitHub Repo</a><br />
 - <a href="https://api-fest.herokuapp.com" target="_blank">Deployed API</a><br />
-- Created using: JavaScripte | NodeJS | Express | MongoDB | Mongoose <br />
+- Created using: JavaScripte | NodeJS | Express | MongoDB | Mongoose | Socket.io <br />
 - Deployed with: Mongo Atlas + Heroku  <br />
 
 <h4>FrontEnd</h4>
 - <a href="https://github.com/christopherBryan1996/PF" target="_blank">GitHub Repo</a> <br />
-- Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS | Bootstrap <br />
+- <a href="https://flamboyant-golick-d7cb40.netlify.app/" target="_blank">Deployed Project</a><br />
+- Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS3 | Bootstrap | Socket.io <br />
 <br />
 
 <h3> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Dogs App</a> - Academic project for Henry</h3>
@@ -55,7 +63,8 @@ An app built for Henry's bootcamp, which consisted of the development of a singl
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white">  
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=white">  
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
