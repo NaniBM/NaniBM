@@ -20,7 +20,7 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 
 ### Recent Works
 
-<h3><a href="#" target="_blank">ClanFest App</a></h3>
+<h3><a href="https://flamboyant-golick-d7cb40.netlify.app/" target="_blank">ClanFest App</a></h3>
 <p>
 ClanFest is a web application that allows users to find, create and organize all kinds of events. 
 Among the functionalities developed, users will be able to create events, edit created events, 
@@ -41,17 +41,31 @@ created events or events to attend, also users will receive emails to inform the
 - <a href="https://github.com/christopherBryan1996/PF" target="_blank">GitHub Repo</a> <br />
 - <a href="https://flamboyant-golick-d7cb40.netlify.app/" target="_blank">Deployed Project</a><br />
 - Created using: TypeScript | React | Redux | React Native (Mobile version) | CSS3 | Bootstrap | Socket.io <br />
+- Deployed with: Netlify  <br />
 <br />
+
+<div align="center"><br />
+  <img src="./images/Home_NoLogin.jpg" width="400px"/> 
+  <img  src="./images/Fav_NoLogin.jpg" width="400"/> <br />
+  <img src="./images/Buy.jpg" width="400"/>
+  <img src="./images/Admin.jpg" width="400"/>
+  <br />
+</div>
 
 <h3> <a href="https://github.com/NaniBM/DogAppPI" target="_blank">Dogs App</a> - Academic project for Henry</h3>
 An app built for Henry's bootcamp, which consisted of the development of a single page application that allows users to learn or obtain information about dog breeds.
-<div align="center"><br /><img src="./images/Projects/DogsApp/01.jpg" width="400px"/> 
-  <img  src="./images/Projects/DogsApp/02.jpg" width="400"/>
-  <img src="./images/Projects/DogsApp/05.jpg" width="800"/>
-  <br /></div>
-<br />
+
 - <a href="https://github.com/NaniBM/DogAppPI" target="_blank">GitHub Repo</a> <br />
 - Created using: JavaScript | React | Redux | CSS | PostgreSQL | Sequelize | NodeJS | Express <br />
+
+<div align="center"><br />
+  <img src="./images/Projects/DogsApp/01.jpg" width="400px"/> 
+  <img  src="./images/Projects/DogsApp/02.jpg" width="400"/>
+  <img src="./images/Projects/DogsApp/05.jpg" width="800"/>
+  <br />
+</div>
+<br />
+
 
 
 <hr />
