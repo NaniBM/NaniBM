@@ -22,11 +22,11 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 
 <h3><a href="https://flamboyant-golick-d7cb40.netlify.app/" target="_blank">ClanFest App</a></h3>
 <p>
-ClanFest is a web application that allows users to find, create and organize all kinds of events. 
+ClanFest is a web application that allows users to find, create and organize all kinds of events.  <br />
 Among the functionalities developed, users will be able to create events, edit created events, 
-invite friends and manage event attendees, assigning them tasks or deleting them.  
+invite friends and manage event attendees, assigning them tasks or deleting them.   <br />
 Users will be able to find events near their location, confirm attendance or purchase tickets 
-for the event through the integrated payment platform, Mercado Pago. 
+for the event through the integrated payment platform, Mercado Pago.  <br />
 ClanFest includes a notification system, part of it, integrated in the app, built with Socket.io, 
 that will send online and offline alerts to users every time another user has interacted with their 
 created events or events to attend, also users will receive emails to inform them of these interactions. 
