@@ -80,21 +80,21 @@ An app built for Henry's bootcamp, which consisted of the development of a singl
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white">  
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=white">  
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">  <br />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
   <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">  
   <img alt="Less" src="https://img.shields.io/badge/Less-1D365D.svg?logo=Les&logoColor=white">  
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=sql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">  <br />
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
   <img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-52B0E7.svg?logo=Sequelize&logoColor=white">
   <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748.svg?logo=Mocha&logoColor=white">
-  <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701.svg?logo=Chai&logoColor=white">
+  <img alt="Chai" src="https://img.shields.io/badge/Chai-A30701.svg?logo=Chai&logoColor=white">  <br />
    
 </p>
 
@@ -106,7 +106,7 @@ An app built for Henry's bootcamp, which consisted of the development of a singl
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=Trello&logoColor=white">  
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"> <br />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"> 
 </p>
