@@ -10,7 +10,7 @@ Welcome to my profile! I am a full stack web developer and biomedical engineerin
 
 
 
-- 🔭 I’m currently working on **a app to facilitate the exchange of books.**
+- 🔭 I’m currently working on **an app to facilitate the exchange of books.**
 - 🌱 I’m currently learning **React Native.**
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/yaninabazanmurua/" target="_blank">Yanina Janet Bazan Murua</a> on Linkedin
