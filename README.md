@@ -1,5 +1,3 @@
-![Banner](./images/banner.jpg)
-
 <h2 align="center"> Hi there I´m <a href="https://nanibm.github.io/NaniBMPortfolio/" target="_blank">Nani</a> 👋</h2>
 
 <div align="center"><br /><img src="./images/Spock.gif" width="250"/><br /></div>
