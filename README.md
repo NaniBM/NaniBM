@@ -2,14 +2,14 @@
 
 <div align="center"><br /><img src="./images/Spock.gif" width="250"/><br /></div>
 <br />
-Welcome to my profile! I am a full stack web developer and biomedical engineering student. I aspire to become a great programmer and be able to create interesting and useful applications that help improve the health of all species.
+Welcome to my profile! I am a full stack software developer and biomedical engineering student. I aspire to become a great programmer and be able to create interesting and useful applications that help improve the health of all species.
 <br />
 <br />
 
 
 
-- 🔭 I’m currently working on **an app to facilitate the exchange of books.**
-- 🌱 I’m currently learning **React Native.**
+- 🔭 I’m currently working at <a href="https://www.tryfondo.com">**Fondo**</a>
+- 🌱 I’m currently learning **Django**
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/yaninabazanmurua/" target="_blank">Yanina Janet Bazan Murua</a> on Linkedin
   - <a href="mailto:bazanmurua@gmail.com">bazanmurua@gmail.com</a>
