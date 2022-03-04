@@ -72,6 +72,8 @@ An app built for Henry's bootcamp, which consisted of the development of a singl
 
 <h4>Programming languages | Frameworks | Libraries | Database</h4>
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-20232a.svg?logo=python&logoColor=#3776AB">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -104,7 +106,7 @@ An app built for Henry's bootcamp, which consisted of the development of a singl
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=Trello&logoColor=white">  
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"> <br />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira&logoColor=white"><br/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"> 
 </p>
