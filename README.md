@@ -8,7 +8,7 @@ I am a full stack software developer and biomedical engineering student. I aspir
 
 
 
-- 🔭 I’m currently working at <a href="[https://www.tryfondo.com](https://www.hottocare.com/)">**HottoCare**</a>
+- 🔭 I’m currently working at <a href="https://www.hottocare.com">**HottoCare**</a>
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/yaninabazanmurua/" target="_blank">Yanina Janet Bazan Murua</a> on Linkedin
   - <a href="mailto:bazanmurua@gmail.com">bazanmurua@gmail.com</a>
