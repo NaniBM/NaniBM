@@ -2,7 +2,7 @@
 
 <div align="center"><br /><img src="./images/Spock.gif" width="250"/><br /></div>
 <br />
-Welcome to my profile! I am a full stack software developer and biomedical engineering student. I aspire to become a great programmer and be able to create interesting and useful applications that help improve the health of all species.
+I am a full stack software developer and biomedical engineering student. I aspire to become a great programmer and be able to create interesting and useful applications that help improve the health of all species.
 <br />
 <br />
 
